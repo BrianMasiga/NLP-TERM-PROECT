@@ -4,4 +4,5 @@ To run this project
 1. Install all the necessary python libraries #Install the gradio library to run the user interface
 2. Run the code and make sure the dataset is properly connected
 3. You can flag any wrong sentiments so that they can be logged for extensive training
+4. I am using the gradio library for the deployment . You can run the code and access the same via a link generated after the code is succefully compilled
 #Thanks and enjoy

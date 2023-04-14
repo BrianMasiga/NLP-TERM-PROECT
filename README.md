@@ -7,3 +7,8 @@ To run this project
 4. I am using the gradio library for the deployment . You can run the code and access the same via a link generated after the code is succefully compilled
 5. Also note that the notebook and the python script are the same so feel free to run either!
 #Thank you and enjoy
+Sample screenshot of ui
+# NEGATIVE SWAHILI SENTIMENT
+![Negative sentiment](https://prnt.sc/xSr7kFcdAFOx)
+#POSITIVE SWAHILI SENTIMENT
+![Positive sentiment](https://prnt.sc/-_HD0pIhXbxQ)

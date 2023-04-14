@@ -9,6 +9,6 @@ To run this project
 #Thank you and enjoy
 Sample screenshot of ui
 # NEGATIVE SWAHILI SENTIMENT
-! [Negative sentiment]("https://prnt.sc/xSr7kFcdAFOx")
+![Negative sentiment](https://i.imgur.com/AFOx.png)
 # POSITIVE SWAHILI SENTIMENT
-! [Positive sentiment]("https://prnt.sc/-_HD0pIhXbxQ")
+![Positive sentiment](https://imgur.com/a/6PqLRw3)

@@ -5,4 +5,5 @@ To run this project
 2. Run the code and make sure the dataset is properly connected you can access through an online codespace 
 3. You can flag any wrong sentiments so that they can be logged for extensive training
 4. I am using the gradio library for the deployment . You can run the code and access the same via a link generated after the code is succefully compilled
-#Thanks and enjoy
+5. Also note that the notebook and the python script are the same so feel free to run either!
+#Thank you and enjoy
